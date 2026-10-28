@@ -1,0 +1,8 @@
+print("--- My Secure Vault ---")
+print("Gmail: [اكتب ايميلك]")
+print("New Pass: Tiger!Cairo22")
+print("2FA: ON")
+print("Facebook: ON")
+print("Check Link Tool: Working ✅")
+print("-----------------------")
+print("Enta kda 100% mota2men!")

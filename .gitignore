@@ -1,0 +1,11 @@
+.bash_history
+.cache/
+.config/
+.gitconfig
+.python_history
+.ssh/
+.storage/
+storage/
+*.pyc
+__pycache__/
+ني دعو
