@@ -2,10 +2,6 @@
 
 > My personal collection of useful security & utility tools built with Python
 
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
-![Tools](https://img.shields.io/badge/Tools-20%2B-green)
-![License](https://img.shields.io/badge/License-MIT-yellow)
-
 ### 🚀 What's Inside?
 
 | Tool | Description |
@@ -25,6 +21,3 @@
 git clone https://github.com/johnmaher057-hue/john-toolkit.git
 cd john-toolkit
 python3 hacker-tool.py
-git add README.md
-git commit -m "update README with cool design"
-git push
