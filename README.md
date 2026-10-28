@@ -1,20 +1,19 @@
-# JOHN TOOLKIT v1.0 - White Hat
-> The Ethical Hacker Toolkit
+# 🧰 John Toolkit
 
-A simple cybersecurity toolkit built with Python on Termux.
+> My personal collection of useful tools and scripts - Built with Python
 
-### Features
-- 1- Gen Password: Generate strong 12-char passwords
-- 2- Encrypt / 3- Decrypt: Base64 text encryption
-- 4- Get IP: Get IP of any website (Recon)
-- 5- Scan Ports: Check open ports 21,22,80,443,8080
-- 6- Check Link: Detect phishing links
-- 7- Check Password: Score password strength 1-5
+[![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://python.org)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-### How to use
+### ✨ What is this?
+A curated toolkit of my most-used scripts and utilities. Everything I found useful while learning to code.
+
+### 📦 Contents
+- `john_toolkit.py` - Core utilities and helper functions
+- More tools coming soon...
+
+### 🚀 Quick Start
+```bash
+git clone https://github.com/johnmaher057-hue/john-toolkit.git
+cd john-toolkit
 python john_toolkit.py
-
-### Proof
-Tested: 123456 = 1/5 WEAK, John12?@#KING = 5/5 STRONG
-
-Built by John - White Hat Hacker
